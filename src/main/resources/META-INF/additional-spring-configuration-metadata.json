@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "edu.tomerbu.uploads",
+      "type": "java.lang.String",
+      "description": "Description for edu.tomerbu.uploads."
+    }
+  ]
+}
